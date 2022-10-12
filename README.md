@@ -9,7 +9,7 @@
 <a href="https://discord.gg/Tiegertropfen119#4537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tiegertropfen119#4537" height="30" width="40" /></a>
 </p>
 <h3 align="left">Best images:</h3>
-<img src="https://cdn.discordapp.com/attachments/640925654266806272/1029680249673355304/Screenshot_2022-10-12-11-01-25-662_com.vanced.android.youtube.jpg" alt="sqlinject" width="300" height="300"/>
+<img src="https://cdn.discordapp.com/attachments/640925654266806272/1029680249673355304/Screenshot_2022-10-12-11-01-25-662_com.vanced.android.youtube.jpg" alt="sqlinject" width="700" height="300"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
