@@ -10,7 +10,7 @@
 Who am I? I'm a German developer, and my go-to language for creating desktop applications is C#. For Arduino projects, I prefer C++/C. I am constantly learning and improving my skills in C++ to further my expertise in backend development. I utilize Node.js as my backend technology, and MySQL is my preferred database type. When it comes to API testing, I rely on Postman or cURL. In my opinion, Linux is the best option for servers, and my favorite Linux distros are Ubuntu and Debian. I'm passionate about my work and always eager to learn and improve.
 
 <h3 align="left">Connect with me:</h3>
-<h2 align="left">Discord : Tiegertropfen119#4537</h2>
+<h2 align="left">Discord : tiegertropfen119</h2>
 <h2 align="left">Email : tiegertropfen119@xamplex.de</h2>
 <p align="left">
 </p>
