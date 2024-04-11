@@ -7,9 +7,9 @@
 <p><center>RVN : RSdg7TnFZMLLKwdoCXMKMKVcSn3ZRDiTFp</center></p>
 <p><center>LTC : LMihbSPVpDPLEj1EvFAc65wfY8vHUWoPVF</center></p>
 <br></br>
-- 🔭 I’m currently working on **some arduino projects**
+- 🔭 I’m currently working on **some projects**
 
-- 🌱 I’m currently learning **C++ / C (For arduinos)**
+- 🌱 I’m currently learning **Python (For things)**
 
 - 📫 How to reach me **Discord**
 <br></br>
